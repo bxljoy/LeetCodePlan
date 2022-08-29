@@ -2,7 +2,6 @@ package com.alexbao.leetcode8;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Stack;
 
 public class BuildAnArrayWithStackOperations {
     public List<String> buildArray(int[] target, int n) {
